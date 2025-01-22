@@ -19,9 +19,9 @@ _save_dir_: Any directory to save the data
 
 _admission_only_: True=Create simulated Admission Notes, False=Keep complete Discharge Summaries
 
-_run convert_para_to_csv.py
+run convert_para_to_csv.py
 
-_then run model.py
+then run model.py
 
 _Apply these scripts accordingly for the other outcome tasks:
 
