@@ -15,6 +15,8 @@ python tasks/mp/mp.py \
 
 _mimic_dir_: Directory that contains unpacked NOTEEVENTS.csv, ADMISSIONS.csv, DIAGNOSES_ICD.csv and PROCEDURES_ICD.csv
 
+run convert_para_to_csv.py
+then run model.py
 _save_dir_: Any directory to save the data
 
 _admission_only_: True=Create simulated Admission Notes, False=Keep complete Discharge Summaries
