@@ -23,6 +23,6 @@ run convert_para_to_csv.py
 
 then run model.py
 
-_Apply these scripts accordingly for the other outcome tasks:
+Apply these scripts accordingly for the other outcome tasks:
 
 **Length-of-Stay** (los/los.py), 
