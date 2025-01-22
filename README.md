@@ -21,6 +21,8 @@ _save_dir_: Any directory to save the data
 
 _admission_only_: True=Create simulated Admission Notes, False=Keep complete Discharge Summaries
 
+run convert_para_to_csv.py
+then run model.py
 Apply these scripts accordingly for the other outcome tasks:
 
 **Length-of-Stay** (los/los.py), 
